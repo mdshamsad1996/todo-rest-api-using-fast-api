@@ -1,5 +1,7 @@
 Assignment:
+
 Create a basic todo rest Api and ability to add/delete/update/modify todo. 
+
 Note: Use FastAPI as framework <https://fastapi.tiangolo.com/> and Motor <https://motor.readthedocs.io/en/stable/index.html> as MongoDb Driver. Also it’s better if you can dockerized the whole application
 
 Make sure python (preferred python3.6) is added to path.
