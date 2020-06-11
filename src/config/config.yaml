@@ -1,0 +1,16 @@
+fastapi:
+  debug: true
+databases:
+  default:
+    ENGINE: 'mongodb'
+    DRIVER: 'motor'
+    NAME: 'todo_db'
+    USER: 'todo_user'
+    PASSWORD: 'todo@123'
+    HOST: 'mongo'
+    PORT: 27017
+
+
+
+
+    
